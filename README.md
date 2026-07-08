@@ -26,7 +26,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 - ✅ Arrays
 - ✅ Strings
 - ✅ Searching & Sorting
-- ⏳ Recursion
+- ✅ Recursion
 - ⏳ Linked Lists
 - ⏳ Stacks & Queues
 - ⏳ Trees
