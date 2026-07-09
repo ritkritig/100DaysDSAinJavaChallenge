@@ -51,6 +51,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 10 | String | Palindrome |
 | Day 11 | Matrix | Addition |
 | Day 12 | Matrix | Check symmetry |
+| Day 13 | Mtrix | Spiral Matrix |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
