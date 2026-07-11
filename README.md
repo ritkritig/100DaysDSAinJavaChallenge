@@ -53,6 +53,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 12 | Matrix | Check symmetry |
 | Day 13 | Matrix | Spiral Matrix |
 | Day 14 | Matrix | Identity Matrix |
+| Day 15 | Matrix | Diagonal Sum |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
