@@ -56,6 +56,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 15 | Matrix | Diagonal Sum |
 | Day 16 | Array | Frequency Counter |
 | Day 17 | Array | Max and Min Element |
+| Day 18 | Array | Rotatation |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
