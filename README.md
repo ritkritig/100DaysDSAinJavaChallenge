@@ -58,6 +58,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 17 | Array | Max and Min Element |
 | Day 18 | Array | Rotatation |
 | Day 19 | Array | Pair Sum Closest to Zero |
+| Day 20 | Array | Count Subarrays with Sum Zero |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
