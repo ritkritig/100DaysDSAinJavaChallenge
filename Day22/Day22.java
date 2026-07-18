@@ -1,4 +1,4 @@
-/*Problem: Create and Traverse Singly Linked List
+/*Problem: Count Nodes in Linked List
 
 Input:
 - First line: integer n
@@ -20,15 +20,18 @@ class ListNode {
 class Solution {
     public void traverse(ListNode head) {
         ListNode curr = head;
+        int count = 0;
         while (curr != null) {
             System.out.print(curr.val + " ");
             curr = curr.next;
+            count++;
         }
         System.out.println();
+        System.out.println(count);
     }
 }
 
-public class Day21 {
+public class Day22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
