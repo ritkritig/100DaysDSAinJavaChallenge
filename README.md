@@ -28,10 +28,10 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 - ✅ Searching & Sorting
 - ✅ Recursion
 - ✅ Linked Lists
+- ✅ Dynamic Programming
 - ⏳ Stacks & Queues
 - ⏳ Trees
 - ⏳ Graphs
-- ⏳ Dynamic Programming
 
 ---
 
@@ -54,13 +54,14 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 13 | Matrix | Spiral Matrix |
 | Day 14 | Matrix | Identity Matrix |
 | Day 15 | Matrix | Diagonal Sum |
-| Day 16 | Array | Frequency Counter |
-| Day 17 | Array | Max and Min Element |
-| Day 18 | Array | Rotatation |
-| Day 19 | Array | Pair Sum Closest to Zero |
-| Day 20 | Array | Count Subarrays with Sum Zero |
+| Day 16 | Arrays | Frequency Counter |
+| Day 17 | Arrays | Max and Min Element |
+| Day 18 | Arrays | Rotatation |
+| Day 19 | Arrays | Pair Sum Closest to Zero |
+| Day 20 | Arrays | Count Subarrays with Sum Zero |
 | Day 21 | Linked List | Traversal |
 | Day 22 | Linked List | Count Nodes |
+| Day 23 | Linked List | Merging Two Sorted Linked Lists |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
