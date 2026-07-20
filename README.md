@@ -62,6 +62,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 21 | Linked List | Traversal |
 | Day 22 | Linked List | Count Nodes |
 | Day 23 | Linked List | Merging Two Sorted Linked Lists |
+| Day 24 | Linked List | Delete First Occurrence of a Key |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
