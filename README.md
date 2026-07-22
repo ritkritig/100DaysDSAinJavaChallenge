@@ -64,6 +64,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 23 | Linked List | Merging Two Sorted Linked Lists |
 | Day 24 | Linked List | Delete First Occurrence of a Key |
 | Day 25 | Linked List | Count Occurrences of an Element in Linked List |
+| Day 21 | Doubly Linked List | Traversal |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
