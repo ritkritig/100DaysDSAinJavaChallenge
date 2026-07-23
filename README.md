@@ -65,6 +65,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 24 | Linked List | Delete First Occurrence of a Key |
 | Day 25 | Linked List | Count Occurrences of an Element in Linked List |
 | Day 26 | Doubly Linked List | Traversal |
+| Day 27 | Linked List | Find Intersection Point of Two Linked Lists |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
