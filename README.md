@@ -66,6 +66,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 25 | Linked List | Count Occurrences of an Element in Linked List |
 | Day 26 | Doubly Linked List | Traversal |
 | Day 27 | Linked List | Find Intersection Point of Two Linked Lists |
+| Day 28 | Circular Linked List | Traversal |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
