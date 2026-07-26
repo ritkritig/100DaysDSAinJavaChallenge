@@ -67,6 +67,8 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 26 | Doubly Linked List | Traversal |
 | Day 27 | Linked List | Find Intersection Point of Two Linked Lists |
 | Day 28 | Circular Linked List | Traversal |
+| Day 29 | Circular Linked List | Rotate Linked List Right by k Places |
+| Day 30 | Linked List | Polynomial Using Linked List |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
