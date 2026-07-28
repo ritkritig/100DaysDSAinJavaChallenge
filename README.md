@@ -29,7 +29,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 - ✅ Recursion
 - ✅ Linked Lists
 - ✅ Dynamic Programming
-- ⏳ Stacks & Queues
+- ✅ Stacks & Queues
 - ⏳ Trees
 - ⏳ Graphs
 
@@ -69,6 +69,8 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 28 | Circular Linked List | Traversal |
 | Day 29 | Circular Linked List | Rotate Linked List Right by k Places |
 | Day 30 | Linked List | Polynomial Using Linked List |
+| Day 31 | Stack | Stack Implementation using Array |
+| Day 32 | Stack | Push and Pop in Stack |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
