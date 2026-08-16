@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Day48 {
 
     static Node buildTree(int[] arr) {
         if (arr.length == 0 || arr[0] == -1) {
@@ -46,7 +46,6 @@ public class Main {
             return 0;
         }
 
-        // Leaf node
         if (root.left == null && root.right == null) {
             return 1;
         }

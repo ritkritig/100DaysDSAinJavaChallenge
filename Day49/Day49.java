@@ -18,7 +18,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Day49 {
 
     static Node insert(Node root, int value) {
 
@@ -60,12 +60,10 @@ public class Main {
             }
         }
 
-        // Value to insert
         int value = sc.nextInt();
 
         root = insert(root, value);
 
-        // Print inorder traversal
         inorder(root);
 
         sc.close();

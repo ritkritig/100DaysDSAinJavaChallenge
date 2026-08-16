@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Day47 {
 
     static Node buildTree(int[] arr) {
         if (arr.length == 0 || arr[0] == -1) {

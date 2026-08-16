@@ -10,7 +10,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Day41 {
 
     static Node front = null;
     static Node rear = null;

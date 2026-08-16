@@ -18,7 +18,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Day50 {
 
     static Node insert(Node root, int value) {
         if (root == null) {
@@ -82,7 +82,6 @@ public class Main {
         if (result == null) {
             System.out.println(-1);
         } else {
-            // Print the subtree using inorder traversal
             inorder(result);
         }
 
