@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Day58 {
 
     static int preIndex = 0;
     static HashMap<Integer, Integer> map = new HashMap<>();
