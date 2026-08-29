@@ -30,7 +30,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 - ✅ Linked Lists
 - ✅ Dynamic Programming
 - ✅ Stacks & Queues
-- ⏳ Trees
+- ✅ Trees
 - ⏳ Graphs
 
 ---
@@ -79,6 +79,16 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 38 | Queue | Deque Operations |
 | Day 39 | Heap | Min Heap Implementation |
 | Day 40 | Heap | Heap Sort Using Max-Heap |
+| Day 41 | Queue | Queue Using Linked List |
+| Day 42 | Queue | Reverse a Queue Using Stack |
+| Day 43 | Tree | Binary Tree Construction (Level Order) |
+| Day 44 | Tree | Binary Tree Traversals |
+| Day 45 | Tree | Height of a Binary Tree |
+| Day 46 | Tree | Level Order Traversal |
+| Day 47 | Tree | Height of Binary Tree |
+| Day 48 | Tree | Count Leaf Nodes |
+| Day 49 | Tree | BST Insert |
+| Day 50 | Tree | BST Search |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
