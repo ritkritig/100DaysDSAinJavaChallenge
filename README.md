@@ -99,6 +99,10 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 58 | Tree | Build Tree from Inorder & Preorder |
 | Day 59 | Tree | Build Tree from Inorder & Postorder |
 | Day 60 | Heap | Validate Min-Heap |
+| Day 61 | Graph | Graph Representation Using Adjacency Matrix |
+| Day 62 | Graph | Graph Representation Using Adjacency List |
+| Day 63 | Graph | Depth First Search (DFS) |
+| Day 64 | Graph | Breadth First Search (BFS) |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
