@@ -89,6 +89,16 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 48 | Tree | Count Leaf Nodes |
 | Day 49 | Tree | BST Insert |
 | Day 50 | Tree | BST Search |
+| Day 51 | Tree | Lowest Common Ancestor in BST |
+| Day 52 | Tree | LCA in Binary Tree |
+| Day 53 | Tree | Print Binary Tree Vertical Order |
+| Day 54 | Tree | Zigzag Traversal |
+| Day 55 | Tree | Right View of Binary Tree |
+| Day 56 | Tree | Symmetric Binary Tree Check |
+| Day 57 | Tree | Mirror a Binary Tree |
+| Day 58 | Tree | Build Tree from Inorder & Preorder |
+| Day 59 | Tree | Build Tree from Inorder & Postorder |
+| Day 60 | Heap | Validate Min-Heap |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
