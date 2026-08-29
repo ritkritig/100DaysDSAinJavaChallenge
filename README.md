@@ -31,7 +31,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 - ✅ Dynamic Programming
 - ✅ Stacks & Queues
 - ✅ Trees
-- ⏳ Graphs
+- ✅ Graphs
 
 ---
 
