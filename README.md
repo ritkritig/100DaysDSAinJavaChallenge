@@ -71,6 +71,14 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 30 | Linked List | Polynomial Using Linked List |
 | Day 31 | Stack | Stack Implementation using Array |
 | Day 32 | Stack | Push and Pop in Stack |
+| Day 33 | Stack | Infix to Postfix Conversion |
+| Day 34 | Stack | Evaluate Postfix Expression |
+| Day 35 | Queue | Queue Using Array |
+| Day 36 | Queue | Circular Queue Using Array |
+| Day 37 | Queue | Priority Queue Using Array |
+| Day 38 | Queue | Deque Operations |
+| Day 39 | Heap | Min Heap Implementation |
+| Day 40 | Heap | Heap Sort Using Max-Heap |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
