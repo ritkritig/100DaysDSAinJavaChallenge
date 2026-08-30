@@ -103,6 +103,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 62 | Graph | Graph Representation Using Adjacency List |
 | Day 63 | Graph | Depth First Search (DFS) |
 | Day 64 | Graph | Breadth First Search (BFS) |
+| Day 65 | Graph | Cycle Detection in Undirected Graph (DFS) |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
