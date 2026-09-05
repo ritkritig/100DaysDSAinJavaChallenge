@@ -108,6 +108,8 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 67 | Graph | Topological Sort (DFS) |
 | Day 68 | Graph | Topological Sort (Kahnâ€™s BFS Algorithm) |
 | Day 69 | Graph | Dijkstraâ€™s Algorithm (Shortest Path) |
+| Day 70 | Hash Table & Graph | Bellman-Ford Algorithm |
+| Day 71 | Hash Table & Graph | Hash Table Using Quadratic Probing |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
