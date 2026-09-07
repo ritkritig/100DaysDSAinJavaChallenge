@@ -111,6 +111,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 70 | Hash Table & Graph | Bellman-Ford Algorithm |
 | Day 71 | Hash Table & Graph | Hash Table Using Quadratic Probing |
 | Day 72 | Matrix & Graph | First Repeated Character |
+| Day 73 | Hash Table & Graph | First Non-Repeating Character |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
