@@ -129,6 +129,9 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 88 | Sorting & Searching | Aggressive Cows Problem |
 | Day 89 | Sorting & Searching | Allocate Minimum Pages |
 | Day 90 | Sorting & Searching | Painter Partition Problem |
+| Day 91 | Sorting & Searching | Merge Sort Implementation |
+| Day 92 | Sorting & Searching | Quick Sort Implementation |
+| Day 93 | Sorting & Searching | Insertion Sort Implementation |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
