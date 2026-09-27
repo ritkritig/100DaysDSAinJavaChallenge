@@ -112,6 +112,13 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 71 | Hash Table & Graph | Hash Table Using Quadratic Probing |
 | Day 72 | Matrix & Graph | First Repeated Character |
 | Day 73 | Hash Table & Graph | First Non-Repeating Character |
+| Day 74 | Hash Table & Graph | Winner of an Election |
+| Day 75 | Hash Table & Graph | Largest Subarray with Zero Sum |
+| Day 76 | Hash Table & Graph | Count Connected Components (Undirected Graph) |
+| Day 77 | Hash Table & Graph | Check if Graph is Connected |
+| Day 78 | Hash Table & Graph | Minimum Spanning Tree using Prim’s Algorithm |
+| Day 79 | Hash Table & Graph | Single Source Shortest Path using Dijkstra’s Algorithm |
+| Day 80 | Hash Table & Graph | Floyd-Warshall Algorithm |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
