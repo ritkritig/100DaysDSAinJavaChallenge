@@ -119,6 +119,16 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 78 | Hash Table & Graph | Minimum Spanning Tree using Prim’s Algorithm |
 | Day 79 | Hash Table & Graph | Single Source Shortest Path using Dijkstra’s Algorithm |
 | Day 80 | Hash Table & Graph | Floyd-Warshall Algorithm |
+| Day 81 | Sorting & Searching | Implement Bubble Sort |
+| Day 82 | Sorting & Searching | Upper Bound & Lower Bound Implementation |
+| Day 83 | Sorting & Searching | Implement Selection Sort |
+| Day 84 | Sorting & Searching | Implement Insertion Sort |
+| Day 85 | Sorting & Searching | Implement Merge Sort |
+| Day 86 | Sorting & Searching | Square Root using Binary Search |
+| Day 87 | Sorting & Searching | Implement Binary Search Iterative |
+| Day 88 | Sorting & Searching | Aggressive Cows Problem |
+| Day 89 | Sorting & Searching | Allocate Minimum Pages |
+| Day 90 | Sorting & Searching | Painter Partition Problem |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
