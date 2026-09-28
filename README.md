@@ -132,6 +132,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 91 | Sorting & Searching | Merge Sort Implementation |
 | Day 92 | Sorting & Searching | Quick Sort Implementation |
 | Day 93 | Sorting & Searching | Insertion Sort Implementation |
+| Day 94 | Sorting & Searching | Counting Sort Implementation |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
