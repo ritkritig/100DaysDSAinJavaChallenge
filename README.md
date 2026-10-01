@@ -135,6 +135,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 94 | Sorting & Searching | Counting Sort Implementation |
 | Day 95 | Sorting & Searching | Bucket Sort (Float Values 0–1) |
 | Day 96 | Sorting & Searching | Counting Inversions in Array |
+| Day 97 | Sorting & Searching | Meeting Rooms Scheduling |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
