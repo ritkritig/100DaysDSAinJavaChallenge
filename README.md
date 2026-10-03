@@ -137,6 +137,7 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 96 | Sorting & Searching | Counting Inversions in Array |
 | Day 97 | Sorting & Searching | Meeting Rooms Scheduling |
 | Day 98 | Sorting & Searching | Merge Overlapping Intervals |
+| Day 99 | Sorting & Searching | Car Fleet Calculation |
 | ... | ... | More coming soon |
 
 > This table will be updated as I progress through the challenge.
