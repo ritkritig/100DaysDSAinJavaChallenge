@@ -140,9 +140,6 @@ This repository documents my journey of solving **Data Structures & Algorithms**
 | Day 99 | Sorting & Searching | Car Fleet Calculation |
 | Day 100 | Sorting & Searching | Count Inversions in Array |
 
-
-> This table will be updated as I progress through the challenge.
-
 ---
 
 ## 🚀 What I'm Learning
